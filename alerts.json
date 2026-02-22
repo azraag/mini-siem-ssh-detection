@@ -1,0 +1,6 @@
+{"timestamp": "2026-02-22T14:42:59.413039", "alert_type": "Brute Force Attempt", "source_ip": "192.168.1.50", "failed_attempts": 5, "severity": "MEDIUM"}
+{"timestamp": "2026-02-22T14:42:59.413233", "alert_type": "Brute Force Attempt", "source_ip": "192.168.1.50", "failed_attempts": 6, "severity": "MEDIUM"}
+{"timestamp": "2026-02-22T14:42:59.413293", "alert_type": "Brute Force Attempt", "source_ip": "192.168.1.50", "failed_attempts": 7, "severity": "MEDIUM"}
+{"timestamp": "2026-02-22T14:42:59.413332", "alert_type": "Brute Force Attempt", "source_ip": "192.168.1.50", "failed_attempts": 8, "severity": "HIGH"}
+{"timestamp": "2026-02-22T14:42:59.413369", "alert_type": "Brute Force Attempt", "source_ip": "192.168.1.50", "failed_attempts": 9, "severity": "HIGH"}
+{"timestamp": "2026-02-22T14:42:59.413399", "alert_type": "Brute Force Attempt", "source_ip": "192.168.1.50", "failed_attempts": 10, "severity": "HIGH"}
